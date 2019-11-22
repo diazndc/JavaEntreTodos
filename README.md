@@ -22,4 +22,8 @@ La finalidad de este repositorio es que cada quien escriba sobre algun tema de l
 
 Sientanse con la libertad de agregar nuevos temas. Todos los aportes serán revisados y aprobados en caso de ser correctos. No se aprobarán textos plagiados de otros libros o de internet. 
 
+Podrán encontrar el archivo README.md dentro de la carpeta "JavaInicial" para comenzar a desarrollar los temas.
+
 *Nota: De momento la idea es completar esta lista y luego seguir con Java Intermedio y avanzado.*
+
+Su aporte ayuda a una comunidad entera que es más grande de lo que creen. Gracias
